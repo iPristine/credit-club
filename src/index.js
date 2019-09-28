@@ -3,7 +3,7 @@ import ReactDOM from "react-dom";
 import { createStore } from "redux";
 import { Provider } from "react-redux";
 import { BrowserRouter } from "react-router-dom";
-import { createBrowserHistory } from 'history';
+import { createBrowserHistory } from "history";
 
 import "./index.sass";
 import App from "./components/app/index";
