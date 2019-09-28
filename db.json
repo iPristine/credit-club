@@ -2,10 +2,21 @@
     "posts": [
       {
         "id": 1,
-        "title": "hello"
+        "title": "hello",
+        "content": "content message"
+      },
+      {
+        "id": 2,
+        "title": "hello1",
+        "content": "cintent helllow1 message"
+      },
+      {
+        "id": 3,
+        "title": "hello3",
+        "content": "content hello message 3"
       }
     ],
     "profile": {
-      "name": "typicode"
+      "name": "iPristine"
     }
   }
