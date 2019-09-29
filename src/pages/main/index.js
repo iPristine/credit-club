@@ -5,7 +5,7 @@ export default class Main extends Component {
   render() {
     return (
       <div className="main">
-        <Link to="/posts">posts</Link>
+        <Link to="/posts">posts</Link> 
       </div>
     );
   }
